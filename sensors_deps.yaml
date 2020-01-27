@@ -1,0 +1,4 @@
+python-filterpy:
+  ubuntu:
+    pip:
+      packages: [filterpy]
